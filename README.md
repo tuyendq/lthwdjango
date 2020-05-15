@@ -1,1 +1,1 @@
-# lthwdjango
+# LTHW - Django
